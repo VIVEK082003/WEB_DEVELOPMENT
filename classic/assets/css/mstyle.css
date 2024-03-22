@@ -1,0 +1,141 @@
+@media only screen and (max-width: 1024px){
+	.container{
+        width:100%;
+    }
+    
+	.headerBG{
+		background-repeat: no-repeat;
+	}
+	
+	nav ul a{
+		font-size:12px !important;
+	}
+	
+	nav svg{
+		font-size:12px !important;
+	}
+	
+	nav select{
+		font-size:12px !important;
+	}
+	
+	nav .mOB{
+		padding-left:0 !important;
+	}
+
+	.navbar .col-lg-3{
+		text-align:center;
+		width: 100%;
+	}
+
+	.navbar-dark {
+		background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")!important;
+    }
+
+	.mView {
+        display: block !important;
+		width: 50%;
+    	margin: auto;
+    }
+	
+	
+	.pricingPlan svg {
+		font-size: 12px;
+	}
+	
+	.pricingPlan li {
+		font-size:12px;
+	}
+}
+
+@media only screen and (max-width: 1024px){
+	
+	.user{
+		display:none;
+	}
+	
+	nav a{
+		font-size:14px !important;
+	}
+	
+	
+}
+
+@media only screen and (max-width: 760px){
+	
+	.bannerTEXT h1{
+		font-size:50px;
+	}
+	
+	.powerfullBUS h2{
+		font-size:26px;
+	}
+	
+	.chooseContent{
+		padding-top:20px;
+	}
+	
+	.mainHome p {
+		font-size: 12px;
+	}
+	
+	.ChooseUsBG .conatainer{
+		margin-left:0 !important;
+	}
+	
+	.Mres{
+		padding-top:20px;
+	}
+	
+	.pricingPlan .col-sm-6{
+		padding-top:10px;
+	}
+	
+	.pricingPlan svg{
+		font-size:22px;
+	}
+	
+}
+
+@media only screen and (max-width: 499px){
+
+	nav .mHeader{
+		width:80%;
+	}
+	
+	nav .navbar-toggler{
+		width:20%;
+	}
+	
+	.headerBG{
+		height:400px;
+		background-size:cover;
+	}
+	
+	.bannerTEXT h1 {
+		font-size: 28px;
+	}
+	
+	.bannerTEXT p, .chooseContent span{
+		font-size: 16px;
+	}
+	
+	.bannerTEXT button{
+		font-size:12px;
+		padding:10px 25px !important;
+	}
+	
+	.mainHome h2 {
+		font-size: 22px;
+	}
+	
+	.chooseContent a{
+		font-size:11px;
+	}
+	
+	.Mnone{
+		display:none;
+	}
+	
+	
+}

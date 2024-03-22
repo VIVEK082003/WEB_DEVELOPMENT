@@ -1,0 +1,348 @@
+
+.container{
+ width: 1140px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.headerBG{
+    background-image: url("../img/headerIMG.png");
+    background-size:cover;
+}
+
+.imgRGBA{
+    background: rgba(0,0,0,0.4);
+}
+
+hr{
+    color:#fff;
+}
+
+.headerBG li{
+    display:inline;
+}
+
+.headerBG ul{
+    margin-bottom:0;
+    margin-left:-25px;
+}
+
+
+.mView {
+    display: none;
+}
+
+.headerBG a{
+    color:#fff !important;
+    text-decoration:none;
+    font-weight:500;
+    font-size:15px;
+    letter-spacing:1px;
+}
+
+.user a{
+    font-size:17px !important;
+}
+
+.user select{
+    background:none;
+    border:none;
+    font-size:17px;
+    color:#fff;
+    font-weight:500;
+}
+
+.user option{
+    color:#000;
+}
+
+.bannerTEXT h1{
+    font-size:80px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.bannerTEXT p{
+    font-size:22px;
+}
+
+.bannerTEXT button{
+    background: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 100%);
+    border:none;
+    border-radius:100px;
+    font-size:20px;
+    font-weight:500;
+}
+
+    
+.mainHome h2, .chooseContent label, .centerContent span, .chooseContent h6, .portfolio a, .pricingPlan h4, .pricingPlan strong, .blogBox h4, .latestBlog h4, .pricingPlan p, .contactForm h3, .mainFooter h5{
+    font-family: 'montserratmedium';
+}
+    
+.mainHome h2{
+    font-size: 36px;
+    color: #4f4f4f;
+    font-weight:600;
+}
+
+.mainHome p{
+    font-size:15px;
+    color: #898989;
+}
+
+.mainHome button{
+    background: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 100%);
+    border:none;
+    border-radius:100px;
+    font-weight:500;
+}
+
+.ChooseUsBG{
+    background-color:#f9f9f9;
+}
+
+.ChooseUsBG hr{
+    color:#000;
+}
+
+.chooseContent{
+    padding-left:75px;
+}
+
+.chooseContent li{
+    display:inline;
+}
+
+.chooseContent ul{
+    margin-left:-35px;
+}
+
+.chooseContent a, .chooseContent span, .pricingPlan span{
+    font-family: 'montserratlight';
+}
+
+.chooseContent a{
+    color:#8b8b8b !important;
+    text-decoration:none;
+    font-weight:700;
+    font-size:18px;
+    letter-spacing:1px;
+}
+
+.chooseContent hr{
+    width:83%;
+    height:5px !important;
+}
+
+.chooseContent p{
+    font-size:18px;
+    padding-top: 14px;
+    letter-spacing:1px;
+    color: #4f4f4f;
+}
+
+.chooseContent label{
+    color: #4f4f4f;
+}
+
+.centerContent span{
+    font-size:19px;
+    letter-spacing:1px;
+    font-weight:500;
+    color:#4f4f4f;
+}
+
+.centerContent svg{
+    color:#abd0fd;
+    font-size:22px;
+}
+
+.centerContent a{
+    color:#bdbdbd;
+}
+
+.chooseContent .Border{
+    border:solid 3px #a4c8fd;
+    border-radius:100%;
+    height:60px;
+    width:60px !important;
+}
+
+.chooseContent h6{
+    color: #4f4f4f;
+    font-size:12px;
+}
+
+.portfolio li{
+    display:inline;
+    margin-left:50px;
+}
+
+.portfolio a{
+    color: #4f4f4f;
+    font-size:14px;
+}
+
+.pricingPlan label a{
+    color:#4f4f4f;
+    font-size:17px;
+}
+
+.pricingPlan a{
+    color:#898989;
+    font-size:17px;
+}
+
+.pricingPlan h4{
+    color:#4f4f4f;
+    font-size: 18px;
+}
+
+.pricingPlan strong{
+    font-size:30px !important;
+    color:#4f4f4f;
+}
+
+.pricingPlan span{
+    font-size:14px;
+    color: #4f4f4f;
+}
+
+.pricingPlan li{
+    list-style:none;
+    color: #898989;
+    font-size:15px;
+}
+
+.pricingPlan ul{
+    margin-left:-30px;
+    line-height:40px;
+}
+
+.pricingPlan button{
+    background-color:#bdbdbd !important;
+    border:none;
+    border-radius:100px;
+    font-weight:500;
+}
+
+.borderBox{
+    border:none;
+    border-radius:10px;
+}
+
+.blogBox{
+    background: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 100%);
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+
+.blogBox h4{
+    font-size: 18px;
+    color:#fff !important;
+}
+
+.blogBox p{
+    color:#fff;
+}
+
+.borderBox img{
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}
+
+.latestBlog h4{
+    font-size: 16px;
+    color:#898989;
+}
+
+.latestBlog span{
+    color: #898989;
+    font-size:15px;
+}
+
+.pricingPlan svg{
+    font-size:40px;
+    color:#acdef5;
+}
+
+.pricingPlan label{
+    font-size: 18px;
+    color: #4f4f4f;
+}
+
+.pricingPlan p{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.contactForm h3{
+    font-size: 25px;
+    color: #4f4f4f;
+}
+
+.contactForm hr{
+    width:13%;
+    color:#4f4f4f;
+}
+
+.form-control{
+    border-top:none;
+    border-right:none;
+    border-left:none;
+}
+
+form textarea{
+    height:200px;
+}
+
+.formBorder{
+    border:none;
+    background: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.formBorder svg{
+    font-size:25px;
+}
+
+.formBorder span{
+    font-size:20px;
+}
+
+.formBorder li{
+    list-style:none;
+    font-size:15px;
+    line-height:90px;
+}
+
+.mainFooter h5{
+    color: #4f4f4f;
+    font-size: 18px;
+}
+
+.mainFooter p{
+    font-size: 15px;
+    color: #898989;
+    line-height:30px;
+}
+
+.mainFooter svg{
+    font-size:13px;
+}
+
+.mainFooter a{
+    color:#898989 !important;
+}
+
+.mainFooter li{
+    list-style:none;
+    line-height:40px;
+    color:#898989;
+}
+
+.sideContent h5{
+    margin-left:38px;
+}
+    
