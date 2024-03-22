@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('../fonts/OpenSans/OpenSans-Regular.woff2') format('woff2'),
+        url('../fonts/OpenSans/OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-SemiBold';
+    src: url('../fonts/OpenSans/OpenSans-SemiBold.woff2') format('woff2'),
+        url('../fonts/OpenSans/OpenSans-SemiBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto_slablight';
+    src: url('../fonts/OpenSans/RobotoSlab-Light.woff2') format('woff2'),
+        url('../fonts/OpenSans/RobotoSlab-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('../fonts/OpenSans/OpenSans-Bold.woff2') format('woff2'),
+        url('../fonts/OpenSans/OpenSans-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url('../fonts/OpenSans/OpenSans-Light.woff2') format('woff2'),
+        url('../fonts/OpenSans/OpenSans-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,39 @@
+@media only screen and (max-width: 1000px){
+	.container{
+		width:100%;
+	}
+	
+	.dView {
+        display: none !important;
+    }
+    .mView {
+        display: block !important;
+        margin:auto;
+    }
+
+	nav .mLogo{
+		width:100%;
+		text-align: center;
+	}
+	
+	nav .navbar-toggler{
+		width:20%;
+	}
+	
+	.sideBar{
+		width:80%;
+	}
+	
+	.intrestingRGBA .MainCenter{
+		text-align:center;
+	}
+	
+	.peopleHelp .Maincircle{
+		width:30%;
+	}
+	
+	.peopleHelp .COnTENT{
+		width:70%;
+	}
+	
+}
