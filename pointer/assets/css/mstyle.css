@@ -1,0 +1,77 @@
+@media only screen and (max-width: 570px){
+	
+	nav .logo{
+		width:80%;
+	}
+	
+	.navbar-toggler{
+		width:20%;
+	}
+	
+}
+
+@media only screen and (max-width: 990px){
+	
+	nav button span{
+		background-color:#989898 !important;
+	}
+	
+	nav .user{
+		display:none;
+	}
+	
+	.headerBG h1{
+		font-size:45px;
+	}
+	
+	.bannerTEXT p {
+		font-size: 16px;
+	}
+	
+	.powerfullBUS{
+		text-align:center !important;
+	}
+	
+	.chooseContent{
+		padding-top:20px !important;
+	}
+	
+	.pricingPlan p{
+		font-size:22px;
+	}
+	
+	.pricingPlan .bg-white{
+		text-align:center !important;
+	}
+	
+	.latestBlog{
+		text-align:center !important;
+	}
+	
+	.mobileRES{
+		padding-top:20px;
+	}
+	
+	.pricingPlan svg{
+		font-size:22px;
+	}
+	
+	.mainFooter{
+		text-align:center;
+	}
+	
+	
+}
+
+@media only screen and (max-width: 1024px){
+	
+	nav a{
+		font-size:12px !important;
+	}
+	
+	.mView {
+        display: block !important;
+    }
+	
+	
+}
