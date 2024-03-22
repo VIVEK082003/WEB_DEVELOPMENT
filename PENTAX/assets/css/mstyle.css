@@ -1,0 +1,78 @@
+@media only screen and (max-width: 1000px){
+    .container{
+        width:100%;
+    }
+
+    .dView {
+        display: none !important;
+    }
+    .mView {
+        display: block !important;
+    }
+
+    .headerBGimg {
+        height: 100%!important;
+    }
+    
+    nav a{
+		font-size:9px !important;
+	}
+
+	nav .mLogo{
+		width:80%;
+	}
+	
+	nav .navbar-toggler{
+		width:20%;
+	}
+	
+	.headerBGimg{
+		background-size:cover;
+		height:325px;
+	}
+	
+	.banerText {
+		padding-top: 24px;
+	}
+	
+	.banerText h1{
+		font-size:28px;
+	}
+	
+	.banerText p{
+		font-size:10px;
+	}
+	
+	.headerBGimg button{
+		font-size:9px;
+		padding:10px 15px !important;
+	}
+	
+	.roman .MIMG, .roman{
+		text-align:center !important;
+	}
+	
+	.romanBOX{
+		margin-left:9px;
+	}
+	
+	.footerBG{
+		text-align:center;
+	}
+	
+	.footerBG .MButton{
+		width:100% !important;
+	}
+	
+	.pic1 {
+		bottom: 71px;
+		left: 2px;
+	}
+	
+	.pic2 {
+		bottom: -10%;
+		left: 26%;
+	}
+	
+	
+}

@@ -1,0 +1,292 @@
+.container{
+    width:1140px;
+}
+
+.headerBGimg{
+    background-image:url(../img/mainbanner3.png);
+    height:750px;
+}
+
+.headerBGimg li , a{
+    display:inline;
+    font-size:14px;
+    font-family: 'RobotoSlab-Bold' !important;
+    color:#1a1d24 !important;
+    letter-spacing:2px;
+    text-decoration:none !important;
+}
+
+.dView {
+    display: block;
+}
+.mView {
+    display: none;
+}
+
+.banerText{
+    padding-top:240px;
+}
+
+.banerText h1{
+    font-size: 48px;
+    font-family: "PlayfairDisplay-Regular";
+    font-weight: 700;
+    text-align: left;
+    color: #1a1d24;
+}
+
+.banerText h1 span{
+        color: #f81c1c;
+}
+
+.banerText p{
+    font-family: 'RobotoSlab-Regular';
+    font-size:13px;
+    letter-spacing:1px;
+}
+
+
+.headerBGimg button{
+    font-family: 'RobotoSlab-Light';
+    font-size:11px;
+    letter-spacing:1px;
+}
+
+.recentWork{
+    padding-top:120px;
+}
+    
+.recentWork h3{
+    font-size: 36px;
+    color: #1a1d24;
+    font-family: "PlayfairDisplay-Regular";
+    font-weight: bold;
+}
+
+.recentWork h3 span{
+    color: #f81c1c;
+    font-style: italic;
+}
+
+.recentWork p{
+    font-size:12px;
+    letter-spacing:1px;
+    font-family: 'PlayfairDisplay-Regular';
+    color: #797979;
+}
+
+.secNAV li , a{
+    display:inline;
+    font-size:14px;
+    font-family: 'RobotoSlab-Bold' !important;
+    color:#1a1d24 !important;
+    letter-spacing:2px;
+    text-decoration:none !important;
+}
+
+.secNAV .MR{
+    margin-left:-60px;
+}
+
+.outerBOX{
+    border:none;
+    background-color:#f7f7f7;
+}
+
+.outerBOX label{
+    font-size: 21px;
+    font-family: "PlayfairDisplay-Regular";
+    font-weight: bold;
+}
+
+.outerBOX p{
+    font-size: 14px;
+    font-family: 'PlayfairDisplay-Regular';
+    color: #797979;
+    line-height:28px;
+}
+
+.outerBOX svg{
+    font-size:40px;
+}
+
+.homeBG{
+    background-color:#f7f7f7;
+    padding-bottom:100px;
+}
+
+.perfectPlan .Border{
+    background-color:#fff;
+}
+
+.perfectPlan .innerBorder{
+    background-color:#f7f7f7;
+}
+
+.perfectPlan h3{
+    font-family: "PlayfairDisplay-Regular";
+    font-weight: bold;
+    font-size:27px;
+}
+
+.perfectPlan p{
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-family: 'RobotoSlab-Light' !important;
+    color: #797979;
+}
+
+.perfectPlan label{
+    font-family: 'RobotoSlab-Bold' !important;
+    font-size:50px;
+}
+
+.innerBorder span{
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-family: 'RobotoSlab-Light' !important;
+    color: #797979;
+    line-height:34px;
+}
+
+.innerBorder svg{
+    font-size:18px;
+    color: #797979;
+}
+
+.innerBorder button{
+    font-family: 'RobotoSlab-Bold' !important;
+    font-size:12px;
+}
+
+.BIMG img{
+    width: 60%;
+    position:relative;
+    padding-top:140px;
+}
+
+.pic1{
+    bottom: 64px;
+    left: 68px;
+}
+
+.pic2{
+    bottom: -10%;
+    left: 43%;
+}
+
+.introAbout{
+    padding-bottom:140px !important;
+}
+
+.introAbout h3{
+    font-size: 36px;
+    color: #1a1d24;
+    font-family: "PlayfairDisplay-Regular";
+    font-weight: bold;
+    line-height: 48px;
+    letter-spacing:1px;
+}
+
+.introAbout p{
+    font-size:14px;
+    color:#777;
+    line-height:28px;
+}
+
+.innerBorder button{
+    background: #f81c1c;
+    border-color: #f81c1c;	
+    font-family: 'RobotoSlab-Regular' !important;
+    font-size:14px !important;
+    letter-spacing:1px;
+}
+
+.happyClients{
+    background-color:#f7f7f7;
+}
+
+.happyClients label{
+    font-family: 'PlayfairDisplay-Regular';
+    font-size:20px;
+}
+
+.roman span{
+    font-size:14px;
+    color: #797979;
+    font-weight:400;
+}
+
+.romanBOX{
+    background-color:#fff;
+    width:95%;
+    margin-left: -8%;
+}
+
+.romanBOX p{
+    font-size:15px !important;
+    font-style:italic;
+    color:#797979;
+    line-height:24px;
+    font-size:14px !important;
+    font-family: 'PlayfairDisplay-Regular';
+}
+
+.slider .first svg{
+    background: #f81c1c;
+    border: 1px solid #f81c1c;
+    border-radius:50%;
+}
+
+.slider svg{
+    font-size:10px;
+}
+
+.recentNews .Border{
+    background-color:#f7f7f7;
+}
+
+.recentNews  a{
+    color: #777 !important;
+    font-size:10px;
+}
+
+.recentNews h4{
+    font-family: "PlayfairDisplay-Bold";
+    font-size:20px;
+}
+
+.recentNews p{
+    line-height: 24px;
+    font-size: 14px;
+    color: #797979;
+}
+
+.footerBG{
+    background-color:#141619;
+}
+
+.footerBG h4{
+    font-family: "PlayfairDisplay-Bold";
+    font-size:22px;
+}
+
+.footerBG p{
+    line-height: 24px;
+    font-size: 14px;
+    color: #797979;
+}
+
+.footerBG input{
+    background:none;
+    border: solid 1px #797979;
+}
+
+.footerBG button{
+    background-color:#f81c1c;
+    border:#f81c1c;
+}
+
+.social span svg{
+    color:#cccccc !important;
+}
