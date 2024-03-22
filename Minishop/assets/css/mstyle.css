@@ -1,0 +1,101 @@
+@media only screen and (max-width: 1000px){
+	.container{
+        width:100%;
+    }
+    
+	.dView {
+        display: none !important;
+    }
+    .mView {
+        display: block !important;
+    }
+	
+	.mLogo{
+		width:100%;
+		text-align: center;
+	}
+	
+	nav .navbar-toggler{
+		width:20%;
+	}
+	
+	.bannerText h1{
+		font-size: 34px;
+		line-height: 44px;
+	}
+	
+	.monthDeal .MSet{
+		width:25%;
+	}
+	
+	.CustomerSays .MCenter{
+		text-align:center;
+	}
+	
+	.mainFooter{
+		text-align:center;
+	}
+	
+	.mainFooter p{
+		padding-bottom:0 !important;
+	}
+	
+	.mainFooter svg{
+		font-size:20px;
+	}
+	
+	.MobFooter .float-left{
+		width:100%;
+	}
+	
+	.MobFooter .float-right{
+		width:100%;
+	}
+	
+	.monthDeal h4{
+		font-size:25px;
+	}
+	
+	.navbar{
+		padding: 18px 14px !important;
+	}
+}
+
+@media only screen and (max-width: 370px){
+    .container{
+        width:100%;
+    }
+    
+	.monthDeal h6{
+		font-size:11px;
+	}
+	
+	.monthDeal h1, h2{
+		font-size:25px;
+	}
+	
+	.CustomerSays p{
+		line-height:19px;
+		font-size:14px;
+	}
+	
+	.CustomerSays svg{
+		font-size:45px;
+	}
+	
+	.bottomPrt svg {
+		font-size: 10px;
+	}
+	
+	.CustomerSays .SideBar p {
+		font-size: 17px;
+		line-height: 30px;
+	}
+	
+	.CustomerSays .SideBar p {
+		font-size: 15px;
+		line-height: 24px;
+	}
+	
+
+}
