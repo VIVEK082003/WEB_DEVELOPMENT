@@ -1,0 +1,354 @@
+a{
+	text-decoration: none;
+}
+.navbar {
+	padding: 8px 16px;
+}
+
+.container{
+	width:1140px;
+}
+
+nav a{
+	text-decoration:none;
+	color:#bea34d;
+	font-size:24px;
+	font-family: 'playfair_displaybold';
+	font-weight:700;
+}
+
+nav span{
+	color:#000;
+}
+	
+nav li{
+	display:inline;
+}
+
+nav ul a{
+	font-size:14px;
+	font-family: 'playfair_display_scregular';
+	font-weight:100 !important;
+}
+
+nav button , .mainHeaderIMG button{
+	font-size:14px;
+	font-family: 'playfair_displayregular';
+	border-radius:25px !important;
+	background-color:#bea34d !important;
+	border:#bea34d !important;
+}
+
+.mView {
+    display: none;
+}
+
+.mainHeaderIMG{
+	background-image: url('../img/headerIMG.png');
+}
+
+.imgRGBA{
+	background: rgba(0,0,0,0.7);
+}
+
+.bannerText{
+	padding:14%;
+}
+
+.bannerText h1{
+	font-size:40px;
+	font-family: 'playfair_displaybold';
+	font-weight:700;
+}
+
+.bannerText p{
+	font-size: 20px;
+	font-weight:500;
+}
+
+.bannerText a{
+	color:#bea34d !important;
+}
+
+.mainHeaderIMG button{
+	background-color:#31486f !important;
+	border:#31486f !important;
+}
+
+.legalServices{
+	background-color:#415f92;
+}
+
+.callNow{
+	background-color:#31486f;
+}
+
+.BottomSide label , a{
+	font-weight:700;
+	font-size:30px;
+	font-family: 'playfair_displaybold';
+}
+
+.BottomSide p{
+	line-height:49px;
+	font-family: 'playfair_display_scregular';
+}
+
+.callNow a{
+	color:#bea34d;
+}
+
+.BottomSide{
+	margin:-20px;
+}
+
+.IMGlayer{
+	background-image: url('../img/headerIMG.png');
+}
+
+.centerLayer{
+	padding:10% 0;
+}
+
+.IMGlayer svg{
+	font-size:70px;
+	color:#bea34d;
+}
+
+.Circle label{
+	font-weight: 700;
+	font-size:40px;
+	font-family: 'playfair_displaybold';
+}
+
+.Circle p{
+	color:#7e7e7e;
+	letter-spacing:2px;
+	font-size:px;
+	font-family: 'playfair_display_scregular';
+}
+.years h1{
+	font-weight: 400;
+	font-size:40px;
+	font-family: 'playfair_displayregular';
+}
+
+.years p{
+	color:#828282;
+	line-height:27px;
+	font-size:17px;
+	font-family: 'playfair_displayregular';
+}
+
+.practicArea .heading h1 , .clientSaysBG h1 , .recentPost h1{
+	font-family: 'playfair_displayregular';
+}
+
+.practicArea .heading p{
+	color:#828282;
+	line-height:27px;
+	font-size:17px;
+	font-family: 'playfair_displayregular';
+}
+
+.practicArea .Border{
+	border:solid 1px #ededed;
+}
+
+.practicArea svg{
+	font-size:50px;
+	color:#31486f;
+}
+
+.practicArea .Border label , .sideBar label , .attorneys label{
+	font-size:24px;
+	font-family: 'playfair_displayregular';
+	color:#31486f;
+}
+
+.practicArea .Border p , .clientSaysBG p , .recentPost p , .attorneys p,span{
+	font-family: 'playfair_displayregular';
+	color:#828282;
+	letter-spacing:1px;
+}
+
+.practicArea button{
+	background-color:#bea34d;
+	border:#bea34d;
+	border-radius:30px;
+	font-family: 'playfair_displayregular';
+}
+
+.Butt svg{
+	font-size:15px;
+}
+
+.yearsBG{
+	background-image: url('../images/30years.png');
+}
+
+.yearsBGRGBA{
+	background: rgba(0,0,0,0.7);
+}
+
+.yearsBGRGBA h1{
+	font-size:55px;
+	font-family: 'playfair_displaybold';
+}
+
+.yearsBGRGBA p{
+	font-size:24px;
+	font-family: 'playfair_displayregular';
+	color:#828282;
+}
+
+.yearsBGRGBA button , form button{
+	font-size:18px;
+	font-family: 'playfair_displayregular';
+	border-radius:30px;
+	background-color:#bea34d;
+	border:#bea34d;
+}
+
+.clientSaysBG{
+	background-color:#f2f2f2;
+}
+
+.clientSaysBG .container{
+	padding:10% 0;
+}
+
+.clientSaysBG img{
+	width:11%;
+}
+
+.clientSaysBG span ,a{
+	font-size: 18px;
+	/* font-weight: 700; */
+	font-family: 'playfair_displaybold';
+}
+
+.clientSaysBG a{
+	color:#bea34d;
+}
+
+.clientSaysBG svg{
+	font-size:13px;
+	color:#31486f;
+}
+
+.clientSaysBG span svg{
+	color:#bea34d;
+}
+
+.formBG{
+	background-color:#31486f !important;
+}
+
+form input,textarea{
+	background:none !important;
+	border:solid 1px #465b7e !important;
+}
+
+.form-control  {  display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057!important;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.form-control::placeholder{
+	color: #8a8c8f!important;
+}
+
+form textarea{
+	height:128px !important;
+}
+
+.formIMG img{
+	height:600px;
+}
+
+form , .recentPost span , .recentPost label , .recentPost p , .footerContent label, .footerContent p {
+	font-family: 'playfair_displayregular';
+}
+
+.recentPost , .attorneys , .footerContent{
+	padding:10% 0;
+}
+
+.recentPost label{
+	font-size:28px;
+	color:#31486f;
+}
+
+.recentPost span, p{
+	font-size:17px;
+	color:#828282;
+	letter-spacing:0 !important;
+	line-height:29px;
+}
+
+.recentPost .sideBar img{
+	width:145px;
+}
+
+.sideBar label{
+	font-size:22px;
+}
+
+.attorneys svg{
+	font-size:35px;
+	color:#bea34d;
+}
+
+.footerBG{
+	background-color:#0b162a;
+}
+
+.footerContent label{
+	font-size:20px;
+}
+
+.footerContent p{
+	font-size:18px;
+}
+
+.footerContent li{
+	list-style:none;
+}
+
+.footerContent a{
+	color:#9e9e9f !important;
+	font-family: 'playfair_displayregular';
+	font-weight:100;
+	text-decoration: none;
+}
+
+.footerContent ul{
+	margin-left:-32px;
+	line-height:30px;
+}
+
+.footerBottom{
+	padding-top:10%;
+}
+
+.footerBottom p{
+	font-family: 'playfair_displayregular';
+	font-size:14px;
+}
+
+.footerBottom a{
+	font-size:15px;
+	color:#bea34d !important;
+}
+
+.footerBottom svg{
+	font-size:28px;
+}
