@@ -1,0 +1,149 @@
+@media only screen and (max-width: 1000px){
+	.container{
+        width:100%;
+    }
+	.navbar .col-lg-4{
+		width:100%;
+		text-align: center;
+	}
+
+	.navbut{
+		text-align: center;
+	}
+    .mView {
+        display: block !important;
+		width: 50%;
+    	margin: auto;
+    }
+
+	.bannerText h1{
+		font-size:100px;
+	}
+
+	.POS{
+		top: 56px;
+		left: 48px;
+		width: 10%;
+	}
+	
+	.POS img{
+		width:180px;
+	}
+	
+	.yourSelf label {
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	.yourSelf .leftSide {
+		width:100%;
+	}
+
+	.yourSelf .rightSide {
+		width:100%;
+		padding-top: 25px;
+	}
+	
+	.rightSide p {
+		font-size: 11px;
+		line-height: 19px;
+	}
+	
+	.rightSide li {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	
+	.freeTrail input{
+		margin-left:5%;
+	}
+	
+	.ButtonSide {
+		margin-left: 5%;
+	}
+	
+	.footerBG {
+		text-align:center;
+	}
+	
+	.bannerText p {
+		font-size: 14px;
+		margin-left: 0%;
+	}
+	
+	.formBG h3 {
+		font-size: 25px;
+	}
+	
+	.BMI p{
+		font-size:11px;
+		line-height:23px;
+	}
+	
+	.BMI {
+		width:70% !important;
+	}
+	
+	.homeMain h3 {
+		font-size:32px;
+	}
+	
+	.freeTrail p{
+		font-size:16px;
+	}
+
+    .freeTrail .w-25{
+        width:100%!important;
+    }
+	
+	.sibscribe-form .float-right{
+		width:40% !important;
+	}
+	
+	.sibscribe-form button{
+		padding:10px 28px !important;
+	}
+	
+	.sibscribe-form input{
+		padding:10px 26px !important;
+	}
+
+    nav .col-lg-4{
+		float:left;
+		width:80%;
+	}
+	
+	nav .navbar-toggler{
+		float:right;
+		width:20%;
+	}
+	
+	.bestCourse .col-lg-3{
+		width:50%;
+	}
+	
+	.TEAM .col-lg-4{
+		width:33%;
+	}
+
+    .JoinUS{
+		text-align:center !important;
+	}
+	
+	.Border{
+		width:10% !important;
+	}
+	
+	.footerBG input{
+		width:75%;
+	}
+	
+	.social p{
+		font-size:12px;
+	}
+
+    nav a{
+		font-size:10px !important;
+	}
+
+}
