@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'muli-Regular';
+    src: url('../fonts/Arial_Regular/Arial_Regular.woff2') format('woff2'),
+        url('../fonts/Arial_Regular/Arial_Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

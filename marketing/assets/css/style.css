@@ -1,0 +1,217 @@
+.parent{
+	font-family:'Arial_Regular';
+}
+
+a{
+    text-decoration: none;
+}
+
+.container {
+    width: 1140px;
+}
+
+.bgColor{
+	background-color:#dedede;
+}
+
+nav ul li{
+	list-style:none;
+	display:inline;
+}
+
+nav ul a{
+	color:#fff;
+}
+
+.dView {
+    display: block;
+}
+.mView {
+    display: none;
+	margin-bottom: 30px!important;
+    background-color: white;
+    width: 80%;
+}
+
+.btn:hover{
+	background-color: white!important;
+}
+
+.bgIMG{
+	background-image: url('../img/headerBG.png');
+}
+
+.bgIMG .container{
+	padding-top:10%;
+}
+
+.bgIMG p{
+	letter-spacing:1px;
+}
+
+.bgIMG button{
+	background-color:#fff;
+	font-size:13px;
+	font-weight:700 !important;
+}
+
+.optionBG{
+	background-color:#e74c3c;
+}
+
+.optionBG .border{
+	width:140px;
+	height:140px;
+	border:solid 2px #fff !important;
+}
+
+
+.optionBG .Icon svg{
+	font-size:45px;
+}
+
+.optionBG{
+	font-size:17px;
+}
+
+.centerBG{
+	background-image: url('../img/centerBG.png');
+}
+
+.mobApp h3 span{
+	color:#e74c3c;
+}
+
+.mobApp h3{
+	font-weight:700px;
+}
+
+.mobApp svg{
+	font-size:60px;
+	color:rgb(192, 58, 44);
+}
+
+.mobApp h4{
+	color:rgb(192, 58, 44);
+	font-size:16px;
+	font-weight:700;
+}
+
+.mobApp p{
+	font-size:15px;
+	color:rgb(183, 183, 183);
+}
+
+.Blog{
+	background-color:#c0392b;
+}
+
+.blogContent p{
+	font-size:15px;
+}
+
+.download{
+	padding-top:15%;
+}
+
+.download p{
+	letter-spacing:0;
+	font-size:16;
+}
+
+.free{
+	background-color:#2490ca;
+	border-radius:5px;
+}
+
+.BRONZE{
+	background-color:#c0392b;
+	border-radius:5px;
+}
+
+.GOLD{
+	background-color:#d35400;
+	border-radius:5px;
+}
+
+.PLATINUM{
+	background-color:#8e44ad;
+	border-radius:5px;
+}
+
+.ColorContent, .formContent p, .contactDetail .social {
+	color:rgb(155, 156, 157);
+}
+
+.mapImg{
+	background-image: url('../img/map.jpg');
+	height:100%;
+}
+
+.formContent .float-start{
+	width:60%;
+}
+
+.formContent .float-end{
+	width:40%;
+}
+
+.formContent h5, h4{
+	color:rgb(192, 57, 43);
+	font-weight:700;
+}
+
+.formContent p{
+	font-size:14px;
+	line-height:15px;
+}
+
+form .row{
+    margin-bottom:15px;
+}
+
+form .rown{
+    margin-bottom:0px!important;
+}
+
+.form-control{
+	background-color:#f0f0f0 !important;
+	border:none;
+	border-radius:0;
+}
+
+form button{
+	background-color:#CC181E!important;
+}
+
+form input::placeholder, form textarea::placeholder{
+	font-size:13px;
+}
+
+.pl-0{
+    padding-left:0px;
+}
+
+.pr-0{
+    padding-right:0px;
+}
+
+.contactDetail p{
+	line-height:25px;
+}
+
+.contactDetail .social{
+	padding-top:22%;
+	font-size:22px;
+}
+
+.centerBG .position-absolute {
+	width:65%;
+	right: -60px;
+    top: 190px;
+
+}
+	
+.footer p{
+	color:#bdbdbd !important;
+}

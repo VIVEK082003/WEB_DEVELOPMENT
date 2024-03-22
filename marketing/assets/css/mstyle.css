@@ -1,0 +1,63 @@
+@media only screen and (max-width: 1024px){
+    .container{
+        width:100%;
+    }
+
+    .dView {
+        display: none !important;
+    }
+    .mView {
+        display: block !important;
+        margin:auto;
+    }
+
+    .mLogo{
+        width:100%;
+    }
+
+    .ul{
+        padding: 0px!important;
+        margin-top: 10px;
+    }
+
+    .mobileimg img{
+        width:100% !important;
+    }
+
+    .img-fluid{
+        display:none;
+    }
+
+    .download .download{
+        padding-bottom:50px;
+    }
+
+	.mLogo img{
+		width:100% !important;
+	}
+	
+	.centerBG .position-absolute img{
+		width:90%;
+	}
+	
+	.centerBG .position-absolute{
+		right: -16px;
+	}
+
+    .formContent form .row div{
+        padding:0px!important;
+    }
+
+    .formContent form .row .pr-0{
+        margin-top:15px!important;
+    }
+
+    .formContent .float-start,.formContent .float-end{
+        width:100%!important;
+    }
+
+    .formContent .float-end{
+        margin-top:25px;
+    }
+	
+}
