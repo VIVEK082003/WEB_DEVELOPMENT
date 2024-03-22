@@ -1,0 +1,226 @@
+* {
+	margin: 0px;
+}
+
+body, * {
+	box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+}
+
+.container {
+    max-width: 1140px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.headerbg, .Jeromebg{
+    background-image: url(../img/headerimg.png);
+    background-size: cover;
+}
+
+.headerrgb{
+    background: rgba(0,0,0,0.6);
+}
+
+nav .logo a{
+    color: #fff;
+    font-family: 'Muli-Bold';
+    font-size: 23px !important;
+    font-weight: 900;
+}
+
+nav ul li,a{
+    display: inline;
+    font-size: 18px !important;
+    font-family: 'Muli-ExtraLight';
+    color: #fff !important
+}
+
+.dView {
+    display: block;
+}
+.mView {
+    display: none;
+}
+.hbutton{
+    display:none;
+}
+
+.hnav{
+    display:block;
+}
+
+nav button, .bannerform button, form button{
+    background-color: #7971ea!important;
+    border-radius: 30px !important;
+    font-size: 15px !important;
+    color: #fff!important;
+    font-family: 'Muli-Bold'!important;
+}
+
+.border span, p {
+    font-size: 17px;
+    color: #808080;
+}
+
+.bannerForm p .ourteacher label{
+	color:#808080;
+	font-family: 'muli-Regular';
+	line-height:28px;
+}
+
+.mainform{
+	margin-left:13%;
+	border-radius:8px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.mainform h4, .border span, .border p, .ourprogram p, .ourprogram h2, .ourprogram span, .ourteacher span, .ourteacher p, .mainfooter p{
+	font-family: 'Muli-Light';
+}
+
+ .coursebutton button, .ourteacher h1, .chooseus h1, .mainfooter h5, .mainfooter button{
+    font-family: 'Muli-Bold';
+}
+
+.border span,  p{
+    /* font-size:14px; */
+    color:#808080;
+}
+
+.border h3 a{
+    color:#7971ea !important;
+    font-family: 'muli-Regular';
+    font-size:20px !important;
+}
+
+.border p{
+    font-size:17px !important;
+}
+
+.border svg{
+    color:#808080;
+    font-size:14px;
+}
+
+.bottomborder span, .coursebutton button{
+    font-size:14px;
+}
+
+.ourprogram p, .ourprogram span{
+    font-size:20px;
+    line-height:30px;
+}
+
+.ourprogram h2{
+    font-size:33px !important;
+}
+
+.ourprogram span{
+    color:#7971ea;
+    line-height:40px;
+}
+
+.ourprogram svg{
+    font-size:22px;
+}
+
+.ourteacher .position-absolute{
+    bottom:75%;
+}
+
+.ourteacher label{
+    font-size:22px;
+}
+
+.ourteacher span{
+    color:#adb5bd;
+    font-size:18px;
+}
+
+.ourteacher p{
+    line-height:28px;
+}
+
+.Jeromebg img{
+    width:16%;
+}
+
+.Jeromebg label{
+    font-size:20px;
+}
+
+.Jeromebg p{
+    font-family: 'Muli-LightItalic';
+    font-size:20px;
+}
+
+.choosesidebar {
+    line-height:60px;
+    font-size:17px;
+    box-shadow: 5px 8px 10px 5px #888888;
+}
+
+.choosesidebar svg{
+    font-size:30px;
+    color:#615dc2;
+}
+
+.formbg{
+    background-color:#f8f9fa;
+}
+
+form textarea{
+    height:250px;
+}
+
+.mainfooter h5{
+    letter-spacing:1px;
+    font-size:15px;
+}
+
+.mainfooter p{
+    font-size:15px;
+    line-height:30px;
+}
+
+.mainfooter ul{
+    margin-left:-38px;
+}
+
+.mainfooter li{
+    list-style:none;
+    line-height:32px;
+    font-size:19px;
+}
+
+.mainfooter a{
+    color:#7971ea !important;
+}
+
+.footerbutton{
+    padding: 0px;
+}
+
+.mainfooter button{
+    background-color:#7971ea;
+    font-size:14px;
+    padding: 10px;
+    border-radius: 0px;
+}
+
+.mainfooter .footerbottom{
+    color:#808080;
+}

@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'muli-Regular';
+    src: url('../fonts/muli/Muli.woff2') format('woff2'),
+        url('../fonts/muli/Muli.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muli-Light';
+    src: url('../fonts/muli/Muli-Light.woff2') format('woff2'),
+        url('../fonts/muli/Muli-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muli-Bold';
+    src: url('../fonts/muli/Muli-Bold.woff2') format('woff2'),
+        url('../fonts/muli/Muli-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muli-ExtraLight';
+    src: url('../fonts/muli/Muli-ExtraLight.woff2') format('woff2'),
+        url('../fonts/muli/Muli-ExtraLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muli-LightItalic';
+    src: url('../fonts/muli/Muli-LightItalic.woff2') format('woff2'),
+        url('../fonts/muli/Muli-LightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

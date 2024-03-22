@@ -1,0 +1,49 @@
+@media screen and (max-width: 1000px) {
+    .hnav {
+        display: none!important;
+        text-align:center;
+    }
+
+    .dView {
+        display: none !important;
+    }
+    .mView {
+        display: block !important;
+        margin:auto;
+        padding: 10px 97px;
+        margin-top: 25px;
+    }
+
+    .hbutton{
+        display:block!important;
+    }
+
+    .logo{
+        text-align: center;
+        width:100%;
+    }
+
+    header .mButton .btn{
+        display:none;
+    }
+
+    nav .logo a{
+        font-size:40px !important;
+    }
+    
+    .bannerform{
+        text-align: center;
+    }
+
+    .ourprogram{
+        text-align: center;
+    }
+
+    .teacher{
+        margin-bottom: 130px;
+    }
+
+    .message{
+        text-align: center;
+    }
+}
